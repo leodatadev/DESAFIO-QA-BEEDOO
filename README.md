@@ -1,4 +1,4 @@
-# DESAFIO-BEEDOO
+# DESAFIO QA BEEDOO
 Desafio | Analista de Qualidade de Software Júnior
 
 ## Descrição do Projeto
