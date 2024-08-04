@@ -10,7 +10,7 @@ Este repositório contém a solução para o desafio de Analista de Qualidade de
 - `user_story.md`: Documento contendo a user story e as decisões tomadas.
 - `casos_de_teste_gherkin.xlsx`: Planilha com todos os cenários e casos de teste escritos em Gherkin.
 - `evidencias/`: Pasta contendo as evidências dos testes em formato MP4.
-- `relatorio_bugs.md`: Relatório com todos os bugs encontrados, seguindo a metodologia escolhida./
+- `relatorio_bugs.md`: Relatório com todos os bugs encontrados, seguindo a metodologia escolhida. <br>
 OBS: para ficar completo essa estrutura de pastas estarei subindo todos os arquivos no repositório. Nesse momento esta seguinto somente o pedido no desafio o README.
 
 ## User Story
