@@ -28,6 +28,7 @@ Como um administrador do sistema,
 Eu quero criar, listar e excluir cursos,
 Para gerenciar o conteúdo educacional da plataforma Beedoo.
 ```
+A documentação para User Stories você pode encontar aqui [User Stories](https://drive.google.com/drive/folders/1xG3nIw7jvsjrzEVmrBrGvkAvZWS71Iz2?usp=sharing)
 
 ## Documentação dos Casos de Teste
 
