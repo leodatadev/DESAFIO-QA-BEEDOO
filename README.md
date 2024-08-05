@@ -52,7 +52,7 @@ A metodologia escolhida para o relatório de bugs foi o ISTQB, que permite uma d
 
   Durante os testes, foram identificadas as seguintes vulnerabilidades:
 
-[Vulnerabilidade]: [Descrição e técnica para identificação]
+Vulnerabilidade: <br>
 Ao acessar a página do desafio, identifiquei que não há um fluxo de login para que o usuário se identifique antes de acessar a tela de lista de cursos e cadastro. Isso torna o sistema vulnerável a ataques, tanto de hackers quanto de usuários não autorizados. Para melhorar a segurança do sistema, sugiro implementar um fluxo de login que exija a identificação dos usuários.
 
 
