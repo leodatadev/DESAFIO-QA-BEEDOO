@@ -58,7 +58,7 @@ Ao acessar a página do desafio, identifiquei que não há um fluxo de login par
 ### Pontos Críticos para Esclarecimentos
 
   1. Especificação dos campos obrigatórios na criação de cursos.
-  2. Comportamento esperado para erros de servidor (exemplo: 404) [Evidênica](https://docs.google.com/document/d/1Yfe1PFFBFuoBIsOqK0Ekb2jzv8b-QgXq/edit?usp=sharing&ouid=100523648392933019370&rtpof=true&sd=true).
+  2. Comportamento esperado para erros de servidor (exemplo: 404) [Evidência](https://docs.google.com/document/d/1Yfe1PFFBFuoBIsOqK0Ekb2jzv8b-QgXq/edit?usp=sharing&ouid=100523648392933019370&rtpof=true&sd=true).
   3. Detalhes sobre permissões de usuário para criar e excluir cursos.
 
 
